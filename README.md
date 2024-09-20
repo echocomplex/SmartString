@@ -1,0 +1,2 @@
+# SmartString
+SmartString for C++
